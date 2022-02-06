@@ -5,7 +5,7 @@
 | PS Number | Name |  
 | --- | --- |
 | 40021134 | Vinaya Ranade|
-| 4002 | Pasumarthi Haritha|
+| 40021034 | Pasumarthi Haritha|
 | 40021162 | Viraj Sawant |
 | 40021041 | Vikas Chand  |
 | 40021053 | Heamnath Saravanan |
