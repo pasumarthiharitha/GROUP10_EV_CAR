@@ -9,5 +9,5 @@
 | 40021162 | Viraj Sawant |
 | 40021041 | Vikas Chand  |
 | 40021053 | Heamnath Saravanan |
-| 400210 | Vaishnavi Kotala |
+| 40021047 | Vaishnavi Kotala |
 | 400210 | Tarageswari
