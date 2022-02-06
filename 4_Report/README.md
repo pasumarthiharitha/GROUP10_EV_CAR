@@ -56,7 +56,23 @@
 
 2.Subject to all the possible stress found in a road vehicle from heat and vibrations, these converters must be able to handle high power and currents along with the associated Electro Magnetic Compatibility (EMC) challenges as well as provide fail-safe operation to ensure dependability and safety for the driver and passengers. 
 
+
+
 3.To help developers increase the automotive inverter's power efficiency and reduce size and weight, ST has a wide offer of discrete semiconductors including AEC-Q101 qualified IGBTs and both silicon and silicon-carbide (SiC) MOSFETs and diodes, AEC-Q100 qualified galvanically isolated IGBT and MOSFET gate drivers and SPC5 32-bit automotive microcontrollers for designing scalable, cost-effective and energy-efficient EV traction inverter solutions.
 
 ### Inverter features :
 4.Traction inverters are typically capable of transferring power in the 20 to 100 kW range, with switching voltages in the 200 V to 800 V range and currents in the hundreds of amperes.
+
+
+## Two Model Comparision 
+| Specificaton| MG ZS EV |  Hyundai Kona Electric|
+|-------:|-------:|-------|
+| Model Price | 21.08 lakh Rs | 23.79 lakh Rs |
+|Gross combination weight |1609 kg | 2020 kg |
+|Range|419 km/Charge |452 Km/Charge|
+|Battery type |lithium-ion  |Lithium-ion Polymer|
+|Max torque |350Nm|395 Nm |
+|Power|140.8bhp |134.14bhp|
+|Charging time |18-19 hrs |7 h 30 min |
+|Electric range |340 km|305 km |
+|Wheel base |2585 mm |2600 mm |
