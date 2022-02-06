@@ -1,7 +1,7 @@
 
 # Requirements
 
-## Battery :
+## 1.Battery :
 1.Battery type used in this EV is Lithium-ion Polymer. 
 
 2.Lithium is also the lightest of all metals. However, lithium-ion (Li-ion) batteries contain no lithium metal, they contain ions. For those wondering what an ion is, an ion is a an atom or molecule with an electric charge caused by the loss or gain of one or more electrons.
@@ -9,7 +9,7 @@
 ### Battery Features:
 
 3.Lithium-ion batteries are one of the most popular forms of energy storage in the world, accounting for 85.6% of deployed energy storage systems.
-## Motor:
+## 2.Motor:
 
 1.BLDC motors are used, which have traction characteristics like high starting torque, high efficiency around 95 98%,etc.
 
@@ -30,7 +30,7 @@
 
 9.Encoder options for servo performance.
 
-## Controller:
+## 3.Controller:
 1.Programmable BLDC motor controller provides efficient smooth and quite control for electric vehicles which operate 36V/48V battery system.
 
 ### controller Features:
@@ -51,7 +51,7 @@
 8.Brake inputs with high active and low active provision.
 
 9.Speed limit control provision.
-## Inverter :
+## 4.Inverter :
 1.The traction inverter converts energy from the vehicle's battery in order to drive the motors in the drivetrain. This key component has a direct impact on road performance, driving range and reliability of the vehicle also as a consequence of their weight and size.
 
 2.Subject to all the possible stress found in a road vehicle from heat and vibrations, these converters must be able to handle high power and currents along with the associated Electro Magnetic Compatibility (EMC) challenges as well as provide fail-safe operation to ensure dependability and safety for the driver and passengers. 
